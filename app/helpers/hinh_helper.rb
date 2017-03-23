@@ -1,0 +1,2 @@
+module HinhHelper
+end
